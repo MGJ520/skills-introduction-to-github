@@ -13,3 +13,7 @@ C+++
 点击预览测试图片是否正常显示
 
 ```
+
+- List syntax is required
+-  This item is complete
+-  This item is not complete

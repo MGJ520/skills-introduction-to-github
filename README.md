@@ -4,7 +4,7 @@
 ## Step 1: Create a branch
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-```
+``` C++
 C+++
 和步骤1一样，在pull request中编辑index.md
 

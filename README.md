@@ -1,5 +1,5 @@
 <header>
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -20,9 +20,13 @@ _Get started using GitHub in less than an hour._
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
+# 这是`<h1>` header，一级标题,
 
+## 这是 `<h2>` header, 二级标题
+
+###### 这是 `<h6>` header, 最小的标题
 ## Step 1: Create a branch
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 _Welcome to "Introduction to GitHub"! :wave:_
 
 **What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
